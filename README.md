@@ -125,7 +125,7 @@ While not a production-ready system, VIS-Cipher Advanced is a robust demonstrati
 3.  **Download or clone the `VIS-CYPHER.py` file.**
 4.  **Run the Python script:**
     ```bash
-    python Visenc.py
+    python VIS-CYPHER.py
     ```
     The script includes example usage in the `if __name__ == "__main__":` block that demonstrates encryption and decryption of both string and byte data, as well as demonstrations of authentication failure and incorrect password handling.
 
