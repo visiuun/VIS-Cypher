@@ -172,7 +172,7 @@ def vis_decrypt_advanced(encrypted_data, password):
 if __name__ == "__main__":
     password = "mySuperSecretPassword123" # *** IMPORTANT: Use a strong, randomly generated password in real applications! ***
     plaintext_string = "This is a secret message to be encrypted with VIS-Cipher Advanced.  We are testing string plaintext."
-    plaintext_bytes = "This is secret binary data to be encrypted with VIS-Cipher Advanced. We are testing byte plaintext."
+    plaintext_bytes = b"This is secret binary data to be encrypted with VIS-Cipher Advanced. We are testing byte plaintext."
 
     print("--- String Plaintext Encryption/Decryption ---")
     start_time_string_enc = time.perf_counter()
