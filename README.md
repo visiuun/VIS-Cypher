@@ -148,8 +148,6 @@ While not a production-ready system, VIS-Cipher Advanced is a robust demonstrati
 
     # Decryption (Bytes Plaintext)
     decrypted_bytes_plaintext = vis_decrypt_advanced(encrypted_bytes_data, password)
-
-    # ... (Demonstrations of tampering and incorrect password) ...
 ```
 ## License
 
