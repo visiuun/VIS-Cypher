@@ -133,8 +133,8 @@ While not a production-ready system, VIS-Cipher Advanced is a robust demonstrati
 
 ```python
     password = "mySuperSecretPassword123" # *** IMPORTANT: Use a strong password in real applications! ***
-    plaintext_string = "This is a secret message to be encrypted with VIS-Cipher Advanced.  We are testing string plaintext."
-    plaintext_bytes = b"This is secret binary data to be encrypted with VIS-Cipher Advanced. We are testing byte plaintext."
+    plaintext_string = "This is a secret message to be encrypted with VIS-Cipher Advanced.  I are testing string plaintext."
+    plaintext_bytes = b"This is secret binary data to be encrypted with VIS-Cipher Advanced. I are testing byte plaintext."
 
     # Encryption (String Plaintext)
     encrypted_string_data = vis_encrypt_advanced(plaintext_string, password)
