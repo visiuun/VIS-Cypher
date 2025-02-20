@@ -10,7 +10,7 @@ As VIS-Cipher Advanced is a demonstration project, there are no formally "suppor
 
 | Version | Supported          | Security Updates |
 | ------- | ------------------ | ---------------- |
-| Current Version (as of [Current Date - e.g., October 26, 2023]) | :white_check_mark: | **Limited - Best Effort for Demonstration Purposes Only** |
+| Current Version (as of February 20, 2025) | :white_check_mark: | **Limited - Best Effort for Demonstration Purposes Only** |
 
 **Explanation:**
 
@@ -55,9 +55,3 @@ Please report any potential security vulnerabilities via **GitHub Issues** in th
 By reporting a vulnerability, you understand and agree that VIS-Cipher Advanced is a demonstration project and not intended for production use. You acknowledge that any fixes provided are for educational purposes and do not constitute a guarantee of security for real-world applications.
 
 **Thank you for helping us improve VIS-Cipher Advanced as an educational resource!**
-
----
-
-**Remember to replace `[Current Date - e.g., October 26, 2023]` with the actual date when you create this `SECURITY.md` file.**
-
-This `SECURITY.md` file clearly sets expectations for users, emphasizing that VIS-Cipher Advanced is a demonstration and not a production security solution, while still providing a process for reporting vulnerabilities for educational improvement.
