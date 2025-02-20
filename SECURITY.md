@@ -20,11 +20,11 @@ As VIS-Cipher Advanced is a demonstration project, there are no formally "suppor
 
 **For Production Use:**
 
-**Again, I strongly reiterate: DO NOT use VIS-Cipher Advanced in any production environment or to protect real-world sensitive data. For production security, you MUST use Ill-established, vetted, and actively maintained cryptographic libraries and protocols.**
+**Again, I strongly reiterate: DO NOT use VIS-Cipher Advanced in any production environment or to protect real-world sensitive data. For production security, you MUST use well-established, vetted, and actively maintained cryptographic libraries and protocols.**
 
 ## Reporting a Vulnerability
 
-I Ilcome and appreciate responsible disclosure of potential vulnerabilities in VIS-Cipher Advanced.  While this is a demonstration project, reporting vulnerabilities helps improve the educational value and understanding of secure coding practices.
+I welcome and appreciate responsible disclosure of potential vulnerabilities in VIS-Cipher Advanced.  While this is a demonstration project, reporting vulnerabilities helps improve the educational value and understanding of secure coding practices.
 
 **How to Report:**
 
@@ -45,13 +45,13 @@ Please report any potential security vulnerabilities via **GitHub Issues** in th
 
 *   **Acknowledgement:** I will acknowledge receipt of your vulnerability report as soon as possible, typically within a few business days.
 *   **Evaluation:** I will evaluate the reported vulnerability to understand its nature and potential impact within the context of this demonstration project.
-*   **Response Time:**  Due to the nature of this project as a demonstration and not a production system, **I cannot provide a guaranteed timeline for response or fixes.** Our ability to address vulnerabilities will depend on available time and resources.
-*   **Fixes (Best Effort):**  If a reported vulnerability is confirmed and deemed relevant to the educational goals of the project, I will make a best-effort attempt to address it in the demonstration code. HoIver, **fixes are not guaranteed.**
-*   **Public Disclosure:** I prefer responsible coordinated disclosure. Please allow us reasonable time to evaluate and potentially address the vulnerability before public disclosure. I will discuss disclosure timelines with you after evaluating the report.
+*   **Response Time:**  Due to the nature of this project as a demonstration and not a production system, **I cannot provide a guaranteed timeline for response or fixes.** My ability to address vulnerabilities will depend on available time and resources.
+*   **Fixes (Best Effort):**  If a reported vulnerability is confirmed and deemed relevant to the educational goals of the project, I will make a best-effort attempt to address it in the demonstration code. However, **fixes are not guaranteed.**
+*   **Public Disclosure:** I prefer responsible coordinated disclosure. Please allow me reasonable time to evaluate and potentially address the vulnerability before public disclosure. I will discuss disclosure timelines with you after evaluating the report.
 *   **No Monetary Rewards/Bug Bounties:** As this is an educational demonstration project, I do not offer monetary rewards or bug bounties for vulnerability reports. I appreciate your contribution to improving the project's educational value.
 
 **Important Disclaimer:**
 
 By reporting a vulnerability, you understand and agree that VIS-Cipher Advanced is a demonstration project and not intended for production use. You acknowledge that any fixes provided are for educational purposes and do not constitute a guarantee of security for real-world applications.
 
-**Thank you for helping us improve VIS-Cipher Advanced as an educational resource!**
+**Thank you for helping me improve VIS-Cipher Advanced as an educational resource!**
